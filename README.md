@@ -1,4 +1,4 @@
-# BattlesnakeElixir
+# Battlesnake Elixir
 
 A basic setup for an Elixir Battlesnake with instructions for how to deploy on Heroku.
 
