@@ -2,6 +2,8 @@
 
 A basic setup for an Elixir Battlesnake with instructions for how to deploy on Heroku.
 
+![elixir_phoenix_heroku](https://image.ibb.co/kwjiGw/elixir_phoenix_heroku.jpg)
+
 * uses Phoenix framework with default postgres setup (even though you probably won't use it)
 * default brunch asset settings as well
 
