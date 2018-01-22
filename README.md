@@ -75,4 +75,4 @@ Since you're using a free hobby app, your app will fall asleep when inactive. Ma
 
 # Questions?
 
-You'll find me in YYJ Tech or in a million other places. 
+You'll find me in the YYJ Tech Slack channel or in a million other places. 
