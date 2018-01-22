@@ -34,7 +34,7 @@ https://github.com/asdf-vm/asdf-erlang
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-# Heroku
+# Deploying on Heroku
 
 I'm most or less summarizing what's mentioned [here](https://hexdocs.pm/phoenix/heroku.html).
 
