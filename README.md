@@ -11,6 +11,19 @@ A basic setup for an Elixir Battlesnake with instructions for how to deploy on H
 
 I'm assuming that you know a bit of Elixir. 
 
+# What you get
+
+* two POST endpoints `/start` and `/move` already defined
+* landing page at `/`
+
+Relevant files:
+
+* [Router](https://github.com/nbw/battlesnake-elixir/blob/master/lib/battlesnake_elixir_web/router.ex)
+* [Game Controller](https://github.com/nbw/battlesnake-elixir/blob/master/lib/battlesnake_elixir_web/controllers/game_controller.ex) and [View](https://github.com/nbw/battlesnake-elixir/blob/master/lib/battlesnake_elixir_web/views/game_view.ex)
+* Very basic [Game module](https://github.com/nbw/battlesnake-elixir/blob/master/lib/battlesnake_elixir/game/game.ex) file
+
+
+
 # What you'll need
 * Elixir 1.6 installed
 * Erlang installed (I'm using Erlang version 20)
