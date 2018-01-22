@@ -59,6 +59,9 @@ I'm most or less summarizing what's mentioned [here](https://hexdocs.pm/phoenix/
  * (optional) `heroku run "POOL_SIZE=2 mix [YOUR APP NAME].task"` Note: you need to insert your app name
  * generate a secret via: `mix phx.gen.secret` then `heroku config:set SECRET_KEY_BASE="[THE SECRET GOES HERE]"`
 
+This is what it should look like in your Heroku settings page (with different values):
+![heroku settings(https://image.ibb.co/npRNbw/Screenshot_2018_01_21_17_28_11.png)
+
 8. In your `config/prod.exs` file change this line:
     `url: [scheme: "https", host: "battlesnake-elixir.herokuapp.com", port: 443],`
   to the url of your heroku app. 
