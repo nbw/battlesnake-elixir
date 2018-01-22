@@ -71,4 +71,4 @@ This is what it should look like in your Heroku settings page (with different va
 9. Commit all your changes in git, and push to heroku: `git push heroku master`
 
 ## Warnings about Heroku
-Since you're using a free hobby app, your app will fall asleep when inactive. Make sure it's awake by hitting its URL before you play a game. 
+Since you're using a free hobby app, your app will fall asleep when inactive. Make sure it's awake by hitting its URL before you play a game. This will normally happen in a game when you receive a `/start` request. After that you should be fine. 
