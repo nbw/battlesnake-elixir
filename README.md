@@ -5,7 +5,7 @@ A basic setup for an Elixir Battlesnake with instructions for how to deploy on H
 * uses Phoenix framework with default postgres setup
 * default brunch asset settings as well
 
-**Setup diffculty:** intermediate
+**Setup difficulty:** intermediate
 
 I'm assuming that you know a bit of Elixir. 
 
