@@ -1,6 +1,6 @@
 # Battlesnake Elixir
 
-A basic setup for an Elixir Battlesnake with instructions for how to deploy on Heroku.
+A basic setup for an Elixir Battlesnake with instructions for how to deploy on Heroku. Fork this repo and go wild. 
 
 ![elixir_phoenix_heroku](https://image.ibb.co/kwjiGw/elixir_phoenix_heroku.jpg)
 
