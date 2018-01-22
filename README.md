@@ -72,3 +72,7 @@ This is what it should look like in your Heroku settings page (with different va
 
 ## Warnings about Heroku
 Since you're using a free hobby app, your app will fall asleep when inactive. Make sure it's awake by hitting its URL before you play a game. This will normally happen in a game when you receive a `/start` request. After that you should be fine. 
+
+# Questions?
+
+You'll find me in YYJ Tech or in a million other places. 
